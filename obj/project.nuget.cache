@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7qNriR853YFiLedS469NuhzthBQQDyuJjHmk+1c9ER6cnQgs0Rz0quu/JMUdkMLpfXzbJ5BnIE3CQsx8NAABQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\AuthWindows\\AuthWindows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\3.1.9\\microsoft.aspnetcore.authentication.negotiate.3.1.9.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.9\\microsoft.aspnetcore.connections.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.9\\microsoft.aspnetcore.http.features.3.1.9.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\system.io.pipelines\\4.7.3\\system.io.pipelines.4.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}
